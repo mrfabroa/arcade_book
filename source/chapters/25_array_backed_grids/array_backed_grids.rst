@@ -261,5 +261,5 @@ Final Program
     :caption: array_backed_grid.py
     :language: python
     :linenos:
-
+ 
 .. _draw_rectangle_filled: http://pythonhosted.org/arcade/arcade.html#arcade.draw_commands.draw_rectangle_filled
