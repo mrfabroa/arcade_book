@@ -158,8 +158,8 @@ Drawing the Grid
    the ``import`` statements.
    Also create variables ``ROW_COUNT`` and ``COLUMN_COUNT``. Set them to 10.
    This will control how many rows and columns we will have.  Finally, create a
-   ``grid`` variable (still in the global variable s area after the ``import`` statement)
-   and set it an empty list ``[]``
+   ``grid`` variable (still in the global variables area after the ``import`` statement)
+   and set it to an empty list ``[]``
 2. Calculate ``SCREEN_WIDTH`` and ``SCREEN_HEIGHT`` based on the variables we
    created above. If we have 10 rows, and each row is 20 high, that's 200 pixels.
    If we have 10 rows, that's also 11 margins. (Nine between the cells and two on
