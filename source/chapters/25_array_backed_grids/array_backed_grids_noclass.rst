@@ -412,7 +412,7 @@ Final Program
         arcade.run()
 
 
-        if __name__ == '__main__':
-            setup()
+    if __name__ == '__main__':
+        setup()
 
 
